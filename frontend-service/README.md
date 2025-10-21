@@ -1,16 +1,30 @@
-# React + Vite
+# MicroCart Frontend Service
+A modern React.js frontend application for the MicroCart e-commerce platform. This service provides a beautiful, responsive user interface for user management and authentication, built with React 18 and modern web technologies.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Features
+Modern Authentication System - Login and registration with JWT tokens
 
-Currently, two official plugins are available:
+User Management - View and manage users with a beautiful card-based UI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Responsive Design - Mobile-first design that works on all devices
 
-## React Compiler
+Real-time Updates - Dynamic user interface with real-time data fetching
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Professional UI/UX - Clean, modern interface with smooth animations
 
-## Expanding the ESLint configuration
+Secure API Integration - Protected API calls with automatic token handling
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+Frontend Framework: React 18
+
+State Management: React Context API + Hooks
+
+HTTP Client: Axios
+
+Routing: React Router (ready for implementation)
+
+Styling: Modern CSS with CSS Grid & Flexbox
+
+Authentication: JWT Tokens
+
+Build Tool: Create React App
